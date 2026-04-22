@@ -3,9 +3,9 @@ This project builds a complete end-to-end data pipeline to track and visualize k
 
 Key Deliverables
 
-Data Processing: Python scripts to clean delivery logs and compute core KPIs (On-Time Delivery, Package Loss, Fuel Efficiency).
-Database Integration: PostgreSQL database implementation storing structured delivery logs for scalable querying.
-Interactive Dashboard: A live web-based dashboard using Streamlit and Plotly for real-time KPI monitoring and trend visualization.
+1. Data Processing: Python scripts to clean delivery logs and compute core KPIs (On-Time Delivery, Package Loss, Fuel Efficiency).
+2. Database Integration: PostgreSQL database implementation storing structured delivery logs for scalable querying.
+3. Interactive Dashboard: A live web-based dashboard using Streamlit and Plotly for real-time KPI monitoring and trend visualization.
 
 How to Run
 
