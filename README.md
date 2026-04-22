@@ -13,6 +13,5 @@ How to Run
 2. Open Logistics Efficiency Analysis.ipynb in Jupyter Notebook and run the cells sequentially to clean data and generate the KPI summaries.
 3. Ensure your local PostgreSQL server is running and accessible.
 4. Open your terminal in the project folder and run:
-  Bash
   streamlit run dashboard.py
 5. Open http://localhost:8501 in your browser to interact with the dashboard.
