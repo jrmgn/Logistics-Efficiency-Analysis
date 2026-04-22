@@ -1,4 +1,5 @@
 Week 8 (Activity 2): Logistics Efficiency Analysis
+
 This project builds a complete end-to-end data pipeline to track and visualize key logistics performance metrics for improved operational monitoring.
 
 Key Deliverables
